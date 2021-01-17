@@ -1,1 +1,1 @@
-# adsku.json
+# ads_ku
