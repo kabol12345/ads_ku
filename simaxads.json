@@ -34,7 +34,7 @@
     
     "Admob": "0",
     "Starapp": "0",
-    "Fan": "0",
+    "Fan": "1",
     "Applovin": "0",
     "Unity": "0",
     
@@ -43,7 +43,7 @@
     "NativeAdmob": "0",
     
     "BannerFanAds": "0",
-    "NativeFanAds": "0",
+    "NativeFanAds": "1",
     
     "RandomAds": "0",
      "button": "1",
@@ -51,14 +51,14 @@
     
     "k1": "https://www.bing.com/search?q=",
     "k2": "https://www.bing.com/search?q=",
-    "k3": "https://www.google.com/search?q=",
-    "k4": "https://www.google.com/search?q=",
-    "k5": "https://www.google.com/search?q=",
-    "k6": "https://www.google.com/search?q=",
-    "k7": "https://www.google.com/search?q=",
+    "k3": "https://www.bing.com/search?q=",
+    "k4": "https://www.bing.com/search?q=",
+    "k5": "https://www.bing.com/search?q=",
+    "k6": "https://www.bing.com/search?q=",
+    "k7": "https://www.bing.com/search?q=",
     
      "browser":"https://www.bing.com/search?q=",
-      "BannerApplovin": "0",
+      "BannerApplovin": "1",
  
     
     "iklan": "1"
