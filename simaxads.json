@@ -49,15 +49,15 @@
      "button": "1",
      "splase": "1",
     
-    "k1": "https://www.google.com/search?q=",
-    "k2": "https://www.google.com/search?q=",
+    "k1": "https://www.bing.com/search?q=",
+    "k2": "https://www.bing.com/search?q=",
     "k3": "https://www.google.com/search?q=",
     "k4": "https://www.google.com/search?q=",
     "k5": "https://www.google.com/search?q=",
     "k6": "https://www.google.com/search?q=",
     "k7": "https://www.google.com/search?q=",
     
-     "browser":"",
+     "browser":"https://www.bing.com/search?q=",
       "BannerApplovin": "0",
  
     
