@@ -23,9 +23,9 @@
     
     "Iklanku": "0",
       
-    "interFan":  "VID_HD_16_9_46S_APP_INSTALL#307412063753181_310455680115486",
-    "NativeFan": "VID_HD_16_9_46S_APP_INSTALL#307412063753181_310452933449094",
-    "BannerFan": "VID_HD_16_9_46S_APP_INSTALL#307412063753181_310453386782382",
+    "interFan":  "3849533245100855_3849534431767403",
+    "NativeFan": "3849533245100855_3849537961767050",
+    "BannerFan": "3849533245100855_3849537045100475",
     
     
     "IdUnity": "1689120",
@@ -34,8 +34,8 @@
     
     "Admob": "0",
     "Starapp": "0",
-    "Fan": "0",
-    "Applovin": "0",
+    "Fan": "1",
+    "Applovin": "1",
     "Unity": "0",
     
   
@@ -43,10 +43,10 @@
     "NativeAdmob": "0",
     
     "BannerFanAds": "0",
-    "NativeFanAds": "0",
+    "NativeFanAds": "1",
     
     "RandomAds": "0",
-     "button": "0",
+     "button": "1",
      "splase": "1",
     
     "k1": "https://www.bing.com/search?q=",
@@ -58,7 +58,7 @@
     "k7": "https://www.bing.com/search?q=",
     
      "browser":"https://www.bing.com/search?q=",
-      "BannerApplovin": "0",
+      "BannerApplovin": "1",
  
     
     "iklan": "1"
