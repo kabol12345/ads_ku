@@ -40,10 +40,10 @@
     
   
     "BannerAdmob": "0",
-    "NativeAdmob": "0",
+    "NativeAdmob": "1",
     
     "BannerFanAds": "0",
-    "NativeFanAds": "1",
+    "NativeFanAds": "0",
     
     "RandomAds": "0",
      "button": "0",
