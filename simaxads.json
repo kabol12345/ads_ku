@@ -32,14 +32,14 @@
     "reword": "rewardedVideo",
     "IdStarapp": "205147707",
     
-    "Admob": "0",
+    "Admob": "1",
     "Starapp": "0",
     "Fan": "1",
     "Applovin": "0",
     "Unity": "0",
     
   
-    "BannerAdmob": "0",
+    "BannerAdmob": "1",
     "NativeAdmob": "0",
     
     "BannerFanAds": "0",
@@ -58,7 +58,7 @@
     "k7": "https://www.bing.com/search?q=",
     
      "browser":"https://www.bing.com/search?q=",
-      "BannerApplovin": "1",
+      "BannerApplovin": "0",
  
     
     "iklan": "1"
