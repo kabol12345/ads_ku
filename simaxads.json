@@ -39,10 +39,10 @@
     "Unity": "0",
     
   
-    "BannerAdmob": "1",
+    "BannerAdmob": "0",
     "NativeAdmob": "0",
     
-    "BannerFanAds": "0",
+    "BannerFanAds": "1",
     "NativeFanAds": "1",
     
     "RandomAds": "0",
