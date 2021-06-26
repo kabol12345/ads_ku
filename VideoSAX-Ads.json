@@ -32,11 +32,17 @@
     "reword": "rewardedVideo",
     "IdStarapp": "205147707",
     
+    
+     "idmopub": "1xxx",
+     "idappdeal": "1xxx",
+    
     "Admob": "0",
     "Starapp": "0",
     "Fan": "0",
     "Applovin": "0",
     "Unity": "0",
+     "appdeal": "1",
+     "mopub": "1",
     
   
     "BannerAdmob": "0",
