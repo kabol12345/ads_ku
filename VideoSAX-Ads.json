@@ -41,15 +41,17 @@
     "Fan": "0",
     "Applovin": "0",
     "Unity": "0",
-     "appdeal": "1",
-     "mopub": "1",
+     "appdeal": "0",
+     "mopub": "0",
     
   
     "BannerAdmob": "0",
-    "NativeAdmob": "1",
+    "NativeAdmob": "0",
     
     "BannerFanAds": "0",
     "NativeFanAds": "0",
+    
+      "BannerApplovin": "0",
     
     "RandomAds": "0",
      "button": "1",
@@ -64,7 +66,7 @@
     "k7": "https://www.bing.com/search?q=",
     
      "browser":"https://www.google.com/search?q=",
-      "BannerApplovin": "1",
+    
  
     
     "iklan": "1"
