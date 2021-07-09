@@ -54,13 +54,13 @@
     
      "mopub": "0",
     
-     "Bidding_Applovin_Inter": "1",
+     "Bidding_Applovin_Inter": "0",
      "Bidding_Applovin_Banner": "0",
      "Bidding_Applovin_Mrc": "0",
     
      "Bidding_Admob_Inter": "0",
-     "Bidding_Admob_Banner": "1",
-     "Bidding_Admob_Native": "1",
+     "Bidding_Admob_Banner": "0",
+     "Bidding_Admob_Native": "0",
     
     
     
