@@ -15,7 +15,7 @@
     "negara": "norway",
     
     "native": "ca-app-pub-3940256099942544/2247696110",
-    "banner": "ca-app-pub-7004984314610450/2351293335",
+    "banner": "ca-app-pub-7004984314610450/2869607975",
     "inter":  "ca-app-pub-7004984314610450/6414277956",
     "appid": "ca-app-pub-7004984314610450~4425764663",
     
@@ -32,14 +32,14 @@
     "reword": "rewardedVideo",
     "IdStarapp": "205147707",
     
-    "Admob": "1",
+    "Admob": "0",
     "Starapp": "0",
     "Fan": "1",
     "Applovin": "0",
     "Unity": "0",
     
   
-    "BannerAdmob": "0",
+    "BannerAdmob": "1",
     "NativeAdmob": "0",
     
     "BannerFanAds": "0",
@@ -58,7 +58,7 @@
     "k7": "https://www.bing.com/search?q=",
     
      "browser":"https://www.bing.com/search?q=",
-      "BannerApplovin": "1",
+      "BannerApplovin": "0",
  
     
     "iklan": "1"
