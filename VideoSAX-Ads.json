@@ -38,11 +38,16 @@
     
    "Tapdax_Appid": "60e1607a86c31c4e07c1071f",
     "Tapdax_key": "1e4da52c-df14-4690-94e3-4155b474b8cc",
+    
+    // 1 ikln inter
+    // 2 ikln video inter
+    // 3 ikln video reword
+
     "Tipe_iklan": "2",
     
-     "Tipe_Inter": "1",
-     "Tipe_Banner": "1",
-     "Tipe_Native": "1",
+     "Tipe_Inter": "0",
+     "Tipe_Banner": "0",
+     "Tipe_Native": "0",
     
     
     
