@@ -17,7 +17,7 @@
     "native": "ca-app-pub-3940256099942544/2247696110",
     "banner": "ca-app-pub-3940256099942544/6300978111",
     "inter":  "ca-app-pub-3940256099942544/1033173712",
-    "appid": "ca-app-pub-3940256099942544~3347511713",
+    "appid": "ca-app-pub-3154477042293939~2657680013",
     
     "kyword": "funny videos ",
     
@@ -44,8 +44,8 @@
     "Tipe_iklan": "2",
     
      "Tipe_Inter": "0",
-     "Tipe_Banner": "0",
-     "Tipe_Native": "0",
+     "Tipe_Banner": "1",
+     "Tipe_Native": "1",
     
     
     
