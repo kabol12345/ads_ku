@@ -43,7 +43,7 @@
 
     "Tipe_iklan": "2",
     
-     "Tipe_Inter": "1",
+     "Tipe_Inter": "0",
      "Tipe_Banner": "0",
      "Tipe_Native": "0",
     
@@ -77,7 +77,7 @@
     
     
   
-    "BannerAdmob": "1",
+    "BannerAdmob": "0",
     "NativeAdmob": "0",
     
     "BannerFanAds": "0",
