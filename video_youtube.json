@@ -1,124 +1,110 @@
-{	"data":
-	[
-  {
-    "id":1,
-	  "category":"Funny Videos",
-	   "view":"5,6K",
-    "judul":"siang malam bercocok tanam - Alur cerita film jepang",
-	  "image":"https://img.youtube.com/vi/OwtIPJwQrSg/maxresdefault.jpg",
-  //  "image":"https://i.ytimg.com/vi/gtcVN_TYaD0/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8hRAiyP5n8i4evert2Kw4Jm9wsQ",
-    "link":"OwtIPJwQrSg"
-  },
-  {
-    "id":2,
-	   "category":"Funny Videos",
-	   "view":"8,6K",
-    "judul":"KEPONAKAN MASIH POLOS UDAH DIAJARIN NYOBLOS SAMA TANTENYA",
-	   "image":"https://img.youtube.com/vi/2FMuCV40Mj0/maxresdefault.jpg",
-  //  "image":"https://i.ytimg.com/an_webp/WqYRQ1zPUGA/mqdefault_6s.webp?du=3000&sqp=CIDz_oUG&rs=AOn4CLCNVksPSwyWnITuedrCA_k5aeFrqg",
-    "link":"2FMuCV40Mj0"
-  },
-  {
-    "id":3,
-	   "category":"Funny Videos",
-	   "view":"1,0K",
-    "judul":"Kurir Barang Dapat Bonus Genjotan | Alur Cerita Film Jepang",
-	   "image":"https://img.youtube.com/vi/zUC1m73XkJU/sddefault.jpg",
-  //  "image":"https://i.ytimg.com/an_webp/J-b5qQmbz40/mqdefault_6s.webp?du=3000&sqp=CNf6_oUG&rs=AOn4CLDjImV811DfARiwhHIhkTzeuod09Q",
-    "link":"zUC1m73XkJU"
-  },
+{
+	"data": [{
+			"id": 1,
+			"category": "Funny Videos",
+			"view": "5,6K",
+			"judul": "BERTUKAR M4MAH S3XY AGAR BISA PEN9G3NJ0TAN ",
+			"image": "https://i.ytimg.com/vi/AlF_RpIuRtI/maxresdefault.jpg",
+			"link": "AlF_RpIuRtI"
+		},
+		{
+			"id": 2,
+			"category": "Funny Videos",
+			"view": "8,6K",
+			"judul": "C4NGKUL I5TRI B0SS DIB4WAH MEJA ",
+			"image": "https://i.ytimg.com/vi/UTWHHx6jAiQ/maxresdefault.jpg",
+			"link": "UTWHHx6jAiQ"
+		},
+		{
+			"id": 3,
+			"category": "Funny Videos",
+			"view": "1,0K",
+			"judul": "Bocil Yang Beruntung - ALUR CERITA FILM",
+			"image": "https://i.ytimg.com/vi/KbH56VG8Bsg/maxresdefault.jpg",
+			"link": "KbH56VG8Bsg&t=4s"
+		},
 
-  {
-    "id":4,
-	   "category":"Funny Videos",
-	   "view":"7,6K",
-    "judul":"AKIBATNYA SALAH BERGAUL | ALUR CERITA FILM JEPANG",
-	   "image":"https://img.youtube.com/vi/2E7Pmtzj8Cw/sddefault.jpg",
-   // "image":"https://i.ytimg.com/an_webp/DBJkmd0n1Lg/mqdefault_6s.webp?du=3000&sqp=CPCh_4UG&rs=AOn4CLB1MQpjOfqnWGEMQLFkGqClpDBlAQ",
-    "link":"2E7Pmtzj8Cw"
-  },
-  {
-    "id":5,
-	   "category":"Funny Videos",
-	   "view":"78,6K",
-    "judul":"ISTRI DISIKAT MERTUA AKIBAT DI ANGGURIN | ALUR CERITA FILM JEPANG",
-	   "image":"https://img.youtube.com/vi/1jH-P-EMb4I/sddefault.jpg",
-  //  "image":"https://i.ytimg.com/an_webp/GEqVz4DjqXo/mqdefault_6s.webp?du=3000&sqp=CKKn_4UG&rs=AOn4CLDiUFNLgFe11EYEqS4_6TQ2jn7L9A",
-    "link":"1jH-P-EMb4I"
-  },
-  {
-    "id":6,
-	   "category":"Funny Videos",
-	   "view":"52,6K",
-    "judul":"SEORANG CUCU YANG BERMAIN DENGAN KAKEK ",
-	   "image":"https://img.youtube.com/vi/Oars9GM3Uz4/sddefault.jpg",
-  //  "image":"https://i.ytimg.com/an_webp/oIYmUrIvn1Q/mqdefault_6s.webp?du=3000&sqp=CMyV_4UG&rs=AOn4CLBtyb8SYetHAe_jVmZhIJuU5qxleQ",
-    "link":"Oars9GM3Uz4"
-  },
-  {
-    "id":7,
-	   "category":"Funny Videos",
-	   "view":"577,6K",
-    "judul":"TETANGGA BARU YANG HOBBY GOA ",
-	   "image":"https://img.youtube.com/vi/v2iu9zqZUCk/sddefault.jpg",
-  //  "image":"https://i.ytimg.com/an_webp/axIljLvbM9M/mqdefault_6s.webp?du=3000&sqp=COmQ_4UG&rs=AOn4CLDlQtWULqR3lsnSf01OXC0UF-HOPg",
-    "link":"v2iu9zqZUCk"
-  },
-  {
-    "id":8,
-	   "category":"Funny Videos",
-	   "view":"57,6K",
-    "judul":"32 Tahun MENJOMBLO AKHIRNYA TERJADI ",
-	   "image":"https://img.youtube.com/vi/QL9t1cNI9lg/sddefault.jpg",
-  //  "image":"https://i.ytimg.com/vi/ffYBeG3Pzbw/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNv2bVQ5dLIFoGJFSjQuUT1T6k8Q",
-    "link":"QL9t1cNI9lg"
-  },
-   {
-    "id":9,
-	    "category":"Funny Videos",
-	    "view":"57,6K",
-    "judul":"KURIR IDAMAN PARA PRIA | ALUR CERITA FILM JEPANG",
-	    "image":"https://img.youtube.com/vi/cEUZ07l79b0/sddefault.jpg",
-   // "image":"https://i.ytimg.com/an_webp/ltq6GhICUIs/mqdefault_6s.webp?du=3000&sqp=CLik_4UG&rs=AOn4CLDuGNoUiXudiF2ZgFZMWgKgHTiITw",
-    "link":"cEUZ07l79b0"
-  },
-    {
-    "id":10,
-	     "category":"Funny Videos",
-	     "view":"58,6K",
-    "judul":"BERCOCOK TANAM DENGAN PEGAWAI TOKO | ALUR CERITA FILM JEPANG",
-	     "image":"https://img.youtube.com/vi/WoZiDkz0ZGw/sddefault.jpg",
-  //  "image":"https://i.ytimg.com/vi/3ZkPgZ1dGmg/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbBtkNKyjViu7Pr5AEdD1W9pU7Gg",
-    "link":"WoZiDkz0ZGw"
-  },
-    {
-    "id":11,
-	     "category":"Funny Videos",
-	     "view":"5,6K",
-    "judul":"UJIAN SEBUAH KESETIAAN | ALUR CERITA FILM JEPANG",
-	     "image":"https://img.youtube.com/vi/UKoVo0-4gKQ/sddefault.jpg",
-   // "image":"https://i.ytimg.com/an_webp/yDHasBz8PG4/mqdefault_6s.webp?du=3000&sqp=CKKn_4UG&rs=AOn4CLBztm89Juo5Y1N2NSjeS-EWqUoosw",
-    "link":"UKoVo0-4gKQ"
-  },
-    {
-    "id":12,
-	     "category":"Funny Videos",
-	     "view":"5,6K",
-    "judul":"HOBBY MAIN GENJOTAN | ALUR CERITA FILM JEPANG",
-	     "image":"https://img.youtube.com/vi/4MFmN5ROTEs/sddefault.jpg",
-   // "image":"https://i.ytimg.com/vi/h_BNhbT6miY/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfXzW9EFFWpTY6MeOHuOhBPOlaJw",
-    "link":"4MFmN5ROTEs"
-  },
-  {
-    "id":13,
-	   "category":"Funny Videos",
-	   "view":"5,6K",
-    "judul":"CINTA DITOLAK TONGKAT SAKTI KELUAR | ALUR CERITA FILM JEPANG",
-	   "image":"https://img.youtube.com/vi/G3JfnHFu1wE/sddefault.jpg",
-   // "image":"https://i.ytimg.com/an_webp/u_k9xoByI9s/mqdefault_6s.webp?du=3000&sqp=CIyI_4UG&rs=AOn4CLBmG-jcV90sdbDNjCCp8W3MfCm7gA",
-    "link":"G3JfnHFu1wE"
-  }
+		{
+			"id": 4,
+			"category": "Funny Videos",
+			"view": "7,6K",
+			"judul": "KETIKA MEMILIKI KARYAWAN TAMPAN - ALUR CERITA FILM SECRET IN BED WITH MY BOS 2020",
+			"image": "https://i.ytimg.com/vi/ALMPiZRBYtg/maxresdefault.jpg",
+			"link": "ALMPiZRBYtg"
+		},
+		{
+			"id": 5,
+			"category": "Funny Videos",
+			"view": "78,6K",
+			"judul": "DI G3NJOD KARYAWAN SAAT LEMBUR || Alur cerita film jepang",
+			"image": "https://i.ytimg.com/vi/IfNDfXMPTUc/sddefault.jpg",
+			"link": "1jH-P-EMb4I"
+		},
+		{
+			"id": 6,
+			"category": "Funny Videos",
+			"view": "52,6K",
+			"judul": "SEORANG CUCU YANG BERMAIN DENGAN KAKEK ",
+			"image": "https://i.ytimg.com/vi/IfNDfXMPTUc/sddefault.jpg",
+			"link": "IfNDfXMPTUc"
+		},
+		{
+			"id": 7,
+			"category": "Funny Videos",
+			"view": "577,6K",
+			"judul": "Tergoda singkong rebus keponakan - alur cerita scroll film",
+			"image": "https://i.ytimg.com/vi/fDY0paWmQe4/maxresdefault.jpg",
+			"link": "fDY0paWmQe4"
+		},
+		{
+			"id": 8,
+			"category": "Funny Videos",
+			"view": "57,6K",
+			"judul": "32 Tahun MENJOMBLO AKHIRNYA TERJADI ",
+			"image": "https://i.ytimg.com/vi/CEbG8XaM21Y/maxresdefault.jpg",
+			"link": "CEbG8XaM21Y&t=3s"
+		},
+		{
+			"id": 9,
+			"category": "Funny Videos",
+			"view": "57,6K",
+			"judul": "KURIR IDAMAN PARA PRIA | ALUR CERITA FILM JEPANG",
+			"image": "https://i.ytimg.com/vi/8Ms94ZttGHE/sddefault.jpg",
+			"link": "8Ms94ZttGHE&t=4s"
+		},
+		{
+			"id": 10,
+			"category": "Funny Videos",
+			"view": "58,6K",
+			"judul": "BERCOCOK TANAM DENGAN PEGAWAI TOKO | ALUR CERITA FILM JEPANG",
+			"image": "https://i.ytimg.com/vi/wfiKek4HoAo/maxresdefault.jpg",
+			"link": "wfiKek4HoAo"
+		},
+		{
+			"id": 11,
+			"category": "Funny Videos",
+			"view": "5,6K",
+			"judul": "UJIAN SEBUAH KESETIAAN | ALUR CERITA FILM JEPANG",
+			"image": "https://i.ytimg.com/vi/QRsglrgNC8U/maxresdefault.jpg",
+			"link": "QRsglrgNC8U"
+		},
+		{
+			"id": 12,
+			"category": "Funny Videos",
+			"view": "5,6K",
+			"judul": "HOBBY MAIN GENJOTAN | ALUR CERITA FILM JEPANG",
+			"image": "https://i.ytimg.com/vi/V_gtIuEQc2g/maxresdefault.jpg",
+			"link": "V_gtIuEQc2g&t=2s"
+		},
+		{
+			"id": 13,
+			"category": "Funny Videos",
+			"view": "5,6K",
+			"judul": "CINTA DITOLAK TONGKAT SAKTI KELUAR | ALUR CERITA FILM JEPANG",
+			"image": "https://i.ytimg.com/vi/RkoblXQrMcQ/maxresdefault.jpg",
+			"link": "RkoblXQrMcQ"
+		}
 
-]
+	]
 
 }
